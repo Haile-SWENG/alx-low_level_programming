@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 /**
  * main aprogame print alin with put function
  * return:0 (don't stop coding)
