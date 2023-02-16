@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main aprogame print alin with put function
- * return:0 (don't stop coding)
+ * mainn - A program which print a lin of code
+ * return 0
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
+puts("\""Programming is like building a multilingual puzzle");
 return (0);
 }
